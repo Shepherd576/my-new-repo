@@ -1,1 +1,1 @@
-
+This project is focused on developing an autoencoder model to identify anomalies in pump machinery through signal processing analysis. The main goal is to compare the effectiveness of the autoencoder between two common audio feature extraction techniques which are Mel Frequency Cepstral Coefficients (MFCC) and Mel-Spectrogram. The autoencoder then detects potential mechanical failures early by recognizing deviations from normal operational sounds which can help in preventive maintenance and reduce downtime in industrial settings.
